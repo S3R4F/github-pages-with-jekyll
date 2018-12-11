@@ -2,5 +2,6 @@
 
 I'm glad you are here. I plan to talk about ...
 
-##...be nice
+## ...be nice
+
 to everyone
